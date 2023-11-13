@@ -2,7 +2,6 @@
 some random work which is required in dev
 
 # ssl-example-keytool
-# Java Keystore Example
 
 This repository contains Java code examples demonstrating how to load a private key and public key from a Java KeyStore (JKS) and perform encryption and decryption operations.
 
